@@ -1,0 +1,6 @@
+{
+  "name": "NutriMind AI",
+  "description": "Sistem deteksi dini risiko masalah gizi untuk siswa madrasah/SMA dengan skrining IMT/U Kemenkes, analisis makanan Gemini AI, TDEE, dan dashboard UKS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
